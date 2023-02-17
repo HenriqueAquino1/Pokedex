@@ -3,5 +3,18 @@
 
 body {
 font-family: 'Poppins',sans-serif;
+min-height: 100vh;
+background-color: #DADFE8;
+align-items: center;
+justify-content: center;
+display: flex;
+}
+
+
+.pokedex{
+
+
+display: flex;
+gap: 30px;
 
 }
